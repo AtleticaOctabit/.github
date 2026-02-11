@@ -1,0 +1,33 @@
+# 🐙 Associação Atlética Acadêmica Octabit (AAAUEC)
+
+Bem-vindo ao espaço de desenvolvimento da **Octabit**, a Atlética de Engenharia de Computação da UNIFEV! 🚀
+
+Aqui é onde o código encontra a integração. Somos uma organização dedicada a representar os estudantes e fortalecer a identidade dos nossos **Abissais** através da tecnologia e união.
+
+---
+
+### 🚀 Sobre Nós
+Fundada com o propósito de unir tecnologia e comunidade, a **Octabit** trabalha para ser o suporte que o aluno precisa durante sua jornada acadêmica. Nosso sistema é movido por inovação, conexões e a busca constante pelo conhecimento.
+
+### 💻 O que desenvolvemos aqui?
+Nesta organização, centralizamos projetos que facilitam a vida do estudante e automatizam processos da nossa Atlética:
+
+* **📚 Projetos de Estudo:** Repositórios colaborativos para ajudar bixos e veteranos nas disciplinas do curso.
+* **📊 Ferramentas Internas:** Dashboards para gestão de sócios e controle de produtos oficiais.
+* **🛠️ Projetos para Portfólio:** Iniciativas open-source para os membros praticarem suas stacks.
+
+### 🤝 Como Contribuir
+Se você é um **Abissal** e quer colocar a mão na massa, o fluxo é simples:
+
+1.  Faça um **Fork** do projeto que te interessa.
+2.  Crie uma **branch** para sua feature.
+3.  Dê o **commit** nas alterações.
+4.  Abra um **Pull Request**!
+
+---
+
+### 📱 Conecte-se com a Octabit
+* **Instagram:** [@atletica.octabit](https://www.instagram.com/atletica.octabit)
+* **Loja Oficial (Cheers):** [Adquira seus produtos e carteirinha](https://cheers.com.br/pagina/atletica-octabit~7579)
+
+Divirtam-se! 💙💛
