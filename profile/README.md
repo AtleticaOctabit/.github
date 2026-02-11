@@ -34,7 +34,7 @@ Através da nossa página na **Cheers**, você tem acesso a:
 * **Produtos Oficiais:** Camisetas, canecas, tirantes e muito mais.
 * **Sócio Abissal:** Adquira sua carteirinha e garanta descontos exclusivos em nossa rede de parceiros e em produtos da Atlética.
 
-[![Loja Oficial](https://img.shields.io/badge/Produtos-FFD700.svg?style=for-the-badge&logo=shopify&logoColor=black)](https://cheers.com.br)
+[![Loja Oficial](https://img.shields.io/badge/Loja%20Oficial-FFD700.svg?style=for-the-badge&logo=shopify&logoColor=black)](https://cheers.com.br/pagina/atletica-octabit~7579)
 
 ---
 
