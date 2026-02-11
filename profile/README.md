@@ -6,17 +6,17 @@ Aqui é onde o código encontra a integração. Somos uma organização dedicada
 
 ---
 
-### 🚀 Sobre Nós
+## 🚀 Sobre Nós
 Fundada com o propósito de unir tecnologia e comunidade, a **Octabit** trabalha para ser o suporte que o aluno precisa durante sua jornada acadêmica. Nosso sistema é movido por inovação, conexões e a busca constante pelo conhecimento.
 
-### 💻 O que desenvolvemos aqui?
+## 💻 O que desenvolvemos aqui?
 Nesta organização, centralizamos projetos que facilitam a vida do estudante e automatizam processos da nossa Atlética:
 
 * **📚 Projetos de Estudo:** Repositórios colaborativos para ajudar bixos e veteranos nas disciplinas do curso.
 * **📊 Ferramentas Internas:** Dashboards para gestão de sócios e controle de produtos oficiais.
 * **🛠️ Projetos para Portfólio:** Iniciativas open-source para os membros praticarem suas stacks.
 
-### 🤝 Como Contribuir
+## 🤝 Como Contribuir
 Se você é um **Abissal** e quer colocar a mão na massa, o fluxo é simples:
 
 1.  Faça um **Fork** do projeto que te interessa.
@@ -26,8 +26,22 @@ Se você é um **Abissal** e quer colocar a mão na massa, o fluxo é simples:
 
 ---
 
-### 📱 Conecte-se com a Octabit
-* **Instagram:** [@atletica.octabit](https://www.instagram.com/atletica.octabit)
-* **Loja Oficial (Cheers):** [Adquira seus produtos e carteirinha](https://cheers.com.br/pagina/atletica-octabit~7579)
+## 🛒 Loja Oficial!
+Quer garantir os produtos oficiais da Octabit ou aproveitar todos os benefícios de ser um sócio?
 
-Divirtam-se! 💙💛
+Através da nossa página na **Cheers**, você tem acesso a:
+
+* **Produtos Oficiais:** Camisetas, canecas, tirantes e muito mais.
+* **Sócio Abissal:** Adquira sua carteirinha e garanta descontos exclusivos em nossa rede de parceiros e em produtos da Atlética.
+
+[![Loja Oficial](https://img.shields.io/badge/Produtos-FFD700.svg?style=for-the-badge&logo=shopify&logoColor=black)](https://cheers.com.br)
+
+---
+
+## 📱 Conecte-se com a Octabit
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atletica.octabit)
+[![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/d5FXX6ZDFT)
+
+---
+
+Sejam muito bem-vindos ao mundo **Octabit**, Divirtam-se! 💙💛
